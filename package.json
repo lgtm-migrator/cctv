@@ -1,0 +1,28 @@
+{
+  "name": "hikvision",
+  "version": "1.0.0",
+  "description": "Hikvision testing",
+  "main": "hikvision.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ciaran",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^1.2.1",
+    "asyncawait": "^1.0.6",
+    "image-downloader": "^3.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slartibastfast/hikvision.git"
+  },
+  "keywords": [
+    "hikvision"
+  ],
+  "bugs": {
+    "url": "https://github.com/slartibastfast/hikvision/issues"
+  },
+  "homepage": "https://github.com/slartibastfast/hikvision#readme"
+}
