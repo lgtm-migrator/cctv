@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/storage": "^1.2.1",
-    "asyncawait": "^1.0.6",
+    "asyncawait": "^1.0.8",
     "image-downloader": "^3.2.2"
   },
   "devDependencies": {},
